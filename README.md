@@ -7,8 +7,9 @@ Source code ini merupakan bagian dari Tugas akhir matakuliah EL5069 - DataScienc
 Pengembang:
 Ghifari Munawar - 33223305
 
-Dataset: 
-https://github.com/owid/co2-data
-
 Demo aplikasi:
 https://carbon-analysis-ghyfer.streamlit.app/
+
+Dataset yang digunakan: 
+https://github.com/owid/co2-data
+
