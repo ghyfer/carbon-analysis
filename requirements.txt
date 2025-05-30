@@ -9,3 +9,4 @@ streamlit-folium
 babel
 requests
 scikit-learn
+matplotlib-venn
