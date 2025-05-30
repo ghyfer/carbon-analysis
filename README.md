@@ -4,5 +4,11 @@ Source code ini merupakan bagian dari Tugas akhir matakuliah EL5069 - DataScienc
 2) Halaman Profil Negara yang memuat gambaran analisis emisi gas rumah kaca berdasarkan profil sosial ekonomi negara, serta analisis terhadap faktor-faktor penting emisinya.
 3) Halaman Prediksi Emisi yang memuat skenario untuk proyeksi emisi di masa depan berdasarkan (a) business as usual (BAU); (b) skenario sedang, dan (c) skenario kuat.
 
+Pengembang:
+Ghifari Munawar - 33223305
+
+Dataset: 
+https://github.com/owid/co2-data
+
 Demo aplikasi:
 https://carbon-analysis-ghyfer.streamlit.app/
